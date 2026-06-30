@@ -1,0 +1,8 @@
+
+Q: What coffee-to-water ratio and water temperature should I use for a strong pour-over?
+[retrieved: docs/ratios.md]
+A: For a strong pour-over, you should use a coffee-to-water ratio of 1:15. As for the water temperature, a general recommendation for brewing coffee is to use water at a temperature between 195°F to 205°F (about 90°C to 96°C).
+
+Q: What water temperature is best for cold brew?
+[retrieved: docs/temperature.md]
+A: Cold brew typically uses room temperature or cold water, generally around 60°F to 70°F. The optimal brew water temperature mentioned (195°F to 205°F) is specifically for hot brewing methods, not cold brew.
