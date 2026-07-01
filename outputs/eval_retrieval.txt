@@ -1,0 +1,13 @@
+hit @1   What kind of water should I use for brewing?
+         retrieved: ['docs/brewing_guide.md#3', 'docs/temperature.md#0', 'docs/brewing_guide.md#1']
+hit @1   What grind size is best for espresso?
+         retrieved: ['docs/brewing_guide.md#2', 'docs/grind.md#0', 'docs/ratios.md#0']
+hit @1   How much caffeine is left in decaf coffee?
+         retrieved: ['docs/decaf.md#0', 'docs/brewing_guide.md#0', 'docs/ratios.md#0']
+hit @1   Which roast keeps floral notes?
+         retrieved: ['docs/roast.md#0', 'docs/grind.md#0', 'docs/decaf.md#0']
+hit @1   What coffee-to-water ratio and water temperature for a strong pour-over?
+         retrieved: ['docs/ratios.md#0', 'docs/brewing_guide.md#0', 'docs/temperature.md#0']
+
+hit_rate@3: 1.00  (5/5 questions retrieved a relevant chunk)
+MRR:         1.00  (avg reciprocal rank of first relevant chunk)
