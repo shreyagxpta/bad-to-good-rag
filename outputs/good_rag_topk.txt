@@ -1,0 +1,8 @@
+
+Q: What coffee-to-water ratio and water temperature should I use for a strong pour-over?
+[retrieved: docs/ratios.md, docs/temperature.md, docs/grind.md]
+A: For a strong pour-over, you should use a coffee-to-water ratio of 1:15 and brew water temperature between 195°F and 205°F.
+
+Q: What water temperature is best for cold brew?
+[retrieved: docs/temperature.md, docs/ratios.md, docs/grind.md]
+A: I don't know.
